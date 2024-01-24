@@ -1,4 +1,4 @@
 bootstrap: sudo apt-get update; sudo apt-get install unzip
 linter: jetbrains/qodana-cdnet:latest
 dotnet:
-  solution: AutoMapper.sln
+  solution: ./AutoMapper.sln
